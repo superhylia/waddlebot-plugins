@@ -1,1 +1,2 @@
-# waddlebot-plugins
+# WaddleBot Plugins
+## made by superhylia
